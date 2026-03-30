@@ -75,7 +75,7 @@ project/
 
 ---
 
-## 🧠 Training data
+##  Training data
 
 The dataset is a hand-curated mix of realistic spam and ham messages, with extra synthetic examples generated from templates to boost variety. It's specifically designed to handle **Indian spam patterns** — think fake UPI offers, Paytm fraud, Jio lucky draws, Aadhaar scam messages — alongside everyday student and personal messages like "bro did you finish the homework" and "when is the last date to submit the assignment."
 
@@ -114,7 +114,7 @@ So if all 5 say SPAM → **100% confidence**. If 3 say SPAM and 2 say HAM → **
 
 ---
 
-## 📌 Things I want to add next
+##  Things I want to add next
 
 - [ ] A simple web UI using Streamlit
 - [ ] Support for multilingual spam (Hindi/Telugu SMS patterns)
@@ -123,7 +123,7 @@ So if all 5 say SPAM → **100% confidence**. If 3 say SPAM and 2 say HAM → **
 
 ---
 
-## 👤 About
+##  About
 
 Built by **Dulam Anvesh Goud**
 B.Tech CSE (AI & ML) — 1st Year | VIT Bhopal
